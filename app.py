@@ -57,7 +57,7 @@ START_BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton("📨 Support", url="https://t.me/VndBotSupport"),
-            InlineKeyboardButton("📚 Source Code", url="https://github.com/ImJanindu/47MusicPlayerBot")
+            InlineKeyboardButton("📚 Source Code", url="https://github.com/Venuja104/Music-Player-Bot")
         ]
     ]
 )
