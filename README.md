@@ -8,13 +8,13 @@
 <h2 align="center">Easy To Deploy</h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/ImJanindu/47MusicPlayerBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Venuja104/Music-Player-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a>  
 </p>
 
 <h2 align="center">Pyrogram Session</h2>
 
 <p align="center">
-<a href="https://replit.com/@AaravxD/VsBSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
+<a href="https://replit.com/@VND-GROUPGROUP/VdStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
 </p>  
 
 <h2 align="center">Config Vars</h2>
@@ -27,7 +27,7 @@
 
 ## License
 
-Distributed under the [MIT Licence.](https://github.com/ImJanindu/47MusicPlayer/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [MIT Licence.](https://github.com/Venuja104/Music-Player-Bot/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 # Creadits
 
