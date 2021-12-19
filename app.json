@@ -2,7 +2,7 @@
   "name": "Music Stream Bot",
   "description": "Bot to play songs in Telegram group voice chats. Powered by PyTgCalls.Project By Venuja",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/47MusicPlayerBot",
+  "repository": "https://github.com/Venuja104/Music-Player-Bot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
